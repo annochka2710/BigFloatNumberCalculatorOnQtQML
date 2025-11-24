@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button/action/active.png</file>
+        <file>images/button/action/normal.png</file>
+        <file>images/button/cancel/active.png</file>
+        <file>images/button/cancel/normal.png</file>
+        <file>images/button/simple/active.png</file>
+        <file>images/button/simple/normal.png</file>
+        <file>images/icon/30/bkt.png</file>
+        <file>images/icon/30/division.png</file>
+        <file>images/icon/30/equal.png</file>
+        <file>images/icon/30/minus.png</file>
+        <file>images/icon/30/multiplication.png</file>
+        <file>images/icon/30/percent.png</file>
+        <file>images/icon/30/plus.png</file>
+        <file>images/icon/30/plus_minus.png</file>
+        <file>images/Status_bar.png</file>
+    </qresource>
+</RCC>
