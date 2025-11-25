@@ -40,6 +40,7 @@ qt_add_qml_module(appCalculator
         qml/Theme.qml
         qml/NumberButton.qml
         qml/OperationButton.qml
+        qml/SecretWindow.qml
     RESOURCES
         images/status.png
         images/button/action/active.png
@@ -59,7 +60,6 @@ qt_add_qml_module(appCalculator
     SOURCES
         calculator.h
         calculator.cpp
-        QML_FILES qml/SecretWindow.qml
 )
 
 set_target_properties(appCalculator PROPERTIES
