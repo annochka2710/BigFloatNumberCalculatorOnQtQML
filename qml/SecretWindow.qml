@@ -30,9 +30,18 @@ ApplicationWindow {
                 normalTextColor: "white"
                 pressedTextColor: "white"
 
+                width: 100
+                height: 100
+                radius: 50
+
                 onClicked: {
                     secretWindow.close()
                 }
+
+                textFont: Qt.font({
+                        family: fonts.button.family,
+                        pointSize: fonts.button.pointSize * 0.8
+                    })
             }
         }
     }
